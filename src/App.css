@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.field_error{
+    color: rgb(246, 10, 10);
+}
+
+.container{
+    width: 50%;
+    margin: 0 auto;
+    font-size: larger;
+    
+}
+.container_list{
+     width: 70%;
+    margin: 0 auto;
+    font-size: larger;
+}
+.main_add,.main_list{
+    text-align: center;
+
+}
+.add_head{
+    margin: 20px 0;
+    border: 3px solid rgb(227, 12, 12) ;
+    border-radius: 5px;
+}
+.head_list{
+    margin: 20px 0;
+    border: 3px solid rgb(227, 12, 12) ;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+
+
+input,select{
+    border: 1px solid black;
+    border-radius: 3px;
+    height: 30px;
+    font-size: large;
+    margin: 0 auto;
+}
+label{
+    font-size: larger;
+}
+input::placeholder{
+    color: rgb(0, 0, 0);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    border: 3px solid rgb(227, 12, 12);
+    border-radius:5px;
+    padding:50px 0px;
+}
+button{
+    padding: 8px 16px;
+    margin: 30px auto;
+    border-radius: 3px;
+    font-size: large;
+}
+.addnew_btn{
+    margin:0;
+    padding: 7px 14px;
+   color: black;
+}
+table{
+    border: 3px solid rgb(227, 12, 12);
+    border-radius:5px;
+    width: 100%;
+    font-size: large;
+    padding: 10px 2px;
+}
+td{
+    padding: 15px 15px;
+   
+    text-align: start;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+th{
+    padding: 15px 15px;
+    text-align: start;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    }
+tr{
+    width: 100%;
+  
+}
+
+.no{
+    width: 15%;
+}
+.name{
+width: 35%;
+}
+.email{
+width: 40%;
+}
+.job{
+    width: 10%;
+}
