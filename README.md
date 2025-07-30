@@ -9,6 +9,7 @@ Client-Side Routing: Utilizes react-router-dom to navigate between the "Add Deta
 
 Dynamic List Filtering: The submissions list can be easily filtered by job category (e.g., Frontend, Backend), allowing users to quickly find relevant entries.
 
+
 🛠️ Technology Stack
 React.js: The core library for building the user interface.
 
