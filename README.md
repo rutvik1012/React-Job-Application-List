@@ -56,5 +56,7 @@ It filters the global list based on the filterCategory before rendering. If "All
 It maps over the filteredList array to render each submission as a row in an HTML table.
 
 It includes a Link that allows the user to navigate back to the form page to add another submission.
+<img width="1582" height="716" alt="Screenshot 2025-08-02 121235" src="https://github.com/user-attachments/assets/755a9368-6116-44ee-94c7-00c59b24489b" />
+
 <img width="1547" height="445" alt="Screenshot 2025-08-02 121316" src="https://github.com/user-attachments/assets/8d373b25-d0d0-4fba-8950-4e7743970f90" />
 
