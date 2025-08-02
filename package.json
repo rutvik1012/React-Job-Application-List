@@ -1,6 +1,6 @@
 {
   "name": "joblist-usecontaxt",
-  "homepage": "https://rutvik1012.github.io/React-Job-Application-List/",
+  "homepage": "https://rutvik1012.github.io/Job-Application/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-			"deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
